@@ -1,0 +1,13 @@
+# Pliki tymczasowe i dane
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# VS Code / IDE
+.vscode/
+.idea/
